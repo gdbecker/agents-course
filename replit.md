@@ -20,7 +20,12 @@ A 6-week course repository for building autonomous AI Agents. Created by Edward 
 - `setup/` — Platform-specific setup instructions
 
 ## Running the App
-The main workflow runs `python app.py` on port 5000. Individual week labs have their own `app.py` files that can be run separately.
+The main workflow runs JupyterLab on port 5000, serving the entire workspace so all course notebooks are accessible in the browser. Individual week labs also have their own `app.py` files that can be run separately via the terminal.
+
+JupyterLab is configured to:
+- Bind to `0.0.0.0:5000` for Replit's proxy
+- Disable token/password for dev access
+- Allow all origins (`allow_origin=*`) for the iframe proxy
 
 ## Environment Variables
 Users need to create a `.env` file with:
