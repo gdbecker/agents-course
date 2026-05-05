@@ -1,6 +1,6 @@
 # Udemy - AI Engineer Agentic Track: The Complete Agent & MCP Course
 
-Projects and learning from Scott Duffy's [AI Engineer Agentic Track: The Complete Agent & MCP Course on Udemy](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/).
+Projects and learning from Ed Donner's [AI Engineer Agentic Track: The Complete Agent & MCP Course on Udemy](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/).
 
 ### [Certificate](https://www.udemy.com/certificate/UC-20c8fa0b-2337-4e6b-9d38-cb848ed24ec1/)
 
